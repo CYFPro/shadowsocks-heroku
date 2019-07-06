@@ -1,7 +1,8 @@
-﻿{
+{﻿
+  {
   "name": "shadowsocks-heroku",
   "description": "shadowsocks-heroku",
-  "env": {
-    "METHOD": "aec-256-cfb",  "KEY": "asdf"
+  "METHOD": "aec-256-cfb", 
+  "KEY": "asdf"
   }
 }
